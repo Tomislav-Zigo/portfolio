@@ -25,7 +25,7 @@
     "typed.js": "^2.0.12",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://github.com/Tomislav-Zigo/portfolio.git",
+  "homepage": "https://tomislav-zigo.github.io/portfolio/",
   "scripts": {
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
