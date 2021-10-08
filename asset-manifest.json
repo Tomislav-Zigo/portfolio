@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Tomislav-Zigo/portfolio.git/static/css/main.6fd4b703.chunk.css",
+    "main.js": "/Tomislav-Zigo/portfolio.git/static/js/main.23b6ae47.chunk.js",
+    "main.js.map": "/Tomislav-Zigo/portfolio.git/static/js/main.23b6ae47.chunk.js.map",
+    "runtime-main.js": "/Tomislav-Zigo/portfolio.git/static/js/runtime-main.b9af0fea.js",
+    "runtime-main.js.map": "/Tomislav-Zigo/portfolio.git/static/js/runtime-main.b9af0fea.js.map",
+    "static/js/2.aafc8291.chunk.js": "/Tomislav-Zigo/portfolio.git/static/js/2.aafc8291.chunk.js",
+    "static/js/2.aafc8291.chunk.js.map": "/Tomislav-Zigo/portfolio.git/static/js/2.aafc8291.chunk.js.map",
+    "static/js/3.cc8079b3.chunk.js": "/Tomislav-Zigo/portfolio.git/static/js/3.cc8079b3.chunk.js",
+    "static/js/3.cc8079b3.chunk.js.map": "/Tomislav-Zigo/portfolio.git/static/js/3.cc8079b3.chunk.js.map",
+    "index.html": "/Tomislav-Zigo/portfolio.git/index.html",
+    "static/css/main.6fd4b703.chunk.css.map": "/Tomislav-Zigo/portfolio.git/static/css/main.6fd4b703.chunk.css.map",
+    "static/js/2.aafc8291.chunk.js.LICENSE.txt": "/Tomislav-Zigo/portfolio.git/static/js/2.aafc8291.chunk.js.LICENSE.txt",
+    "static/media/1024px-Unofficial_JavaScript_logo_2.svg.2e10b2a2.png": "/Tomislav-Zigo/portfolio.git/static/media/1024px-Unofficial_JavaScript_logo_2.svg.2e10b2a2.png",
+    "static/media/27-278320_bootstrap-logo-logo-png-bootstrap-logo-transparent-png.14b9f67e.png": "/Tomislav-Zigo/portfolio.git/static/media/27-278320_bootstrap-logo-logo-png-bootstrap-logo-transparent-png.14b9f67e.png",
+    "static/media/Tomislav_Zigo_Resume.482ce856.pdf": "/Tomislav-Zigo/portfolio.git/static/media/Tomislav_Zigo_Resume.482ce856.pdf",
+    "static/media/bitmoji.71f0fa21.PNG": "/Tomislav-Zigo/portfolio.git/static/media/bitmoji.71f0fa21.PNG",
+    "static/media/github-logo-5F384D0265-seeklogo.com.dfaa7e3e.png": "/Tomislav-Zigo/portfolio.git/static/media/github-logo-5F384D0265-seeklogo.com.dfaa7e3e.png",
+    "static/media/otok_rab.1e9d44eb.jpg": "/Tomislav-Zigo/portfolio.git/static/media/otok_rab.1e9d44eb.jpg",
+    "static/media/react-logo-512x512.2c61e2f6.png": "/Tomislav-Zigo/portfolio.git/static/media/react-logo-512x512.2c61e2f6.png",
+    "static/media/twitter-square.daf77586b35e90319725e742f6e069f9.daf77586.jpg": "/Tomislav-Zigo/portfolio.git/static/media/twitter-square.daf77586b35e90319725e742f6e069f9.daf77586.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9af0fea.js",
+    "static/js/2.aafc8291.chunk.js",
+    "static/css/main.6fd4b703.chunk.css",
+    "static/js/main.23b6ae47.chunk.js"
+  ]
+}
